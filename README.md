@@ -1,5 +1,5 @@
-### Health Records Application
-Easy access to all concerned healthcare professionals to patient details and enables seamless transfer or rereferrals.
+### EHRlog Application
+Easy access to all concerned healthcare professionals to client(patient) details and enables seamless transfer or rereferrals.
 
 ##### Technologies
 C language, python, JavaScript, HTML, CSS, MySQL
