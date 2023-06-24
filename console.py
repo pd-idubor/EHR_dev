@@ -11,7 +11,7 @@ from models.demo import Demo
 #from models.history import History
 from models.complaint import Complaint
 from models.diagnosis import Diagnosis
-from models.vitals import Vitals
+from models.labs import Labs
 from models.medics import Medics
 from models.practitioner import Practitioner
 from models.procedure import Procedure
@@ -19,7 +19,7 @@ from models.procedure import Procedure
 
 classes = {"BaseModel": BaseModel, "User": User, "Demo": Demo,
             "Complaint": Complaint,
-            "Diagnosis": Diagnosis, "Vitals": Vitals,
+            "Diagnosis": Diagnosis, "Labs": Labs,
             "Medics": Medics, "Procedure": Procedure,
             "Practitioner": Practitioner
             }
